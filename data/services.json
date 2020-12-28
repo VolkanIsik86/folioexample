@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "terminal",
+			"title" : "Linux Admin",
+			"description" : "Linux sysadmin not certified yet. "
+		},
+		{
+			"icon" : "code",
+			"title" : "Software Developer",
+			"description" : "Knowledge devoloping with C , JAVA and PHP. "
+		}
+	]
+}
